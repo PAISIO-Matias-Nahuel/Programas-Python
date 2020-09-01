@@ -1,0 +1,18 @@
+2020-07-21 13:04:01,906 - DEBUG - start of program
+2020-07-21 13:04:01,908 - DEBUG - start of factorial(%s)
+2020-07-21 13:04:01,909 - DEBUG - i is 1, total is 1
+2020-07-21 13:04:01,910 - DEBUG - i is 2, total is 2
+2020-07-21 13:04:01,912 - DEBUG - i is 3, total is 6
+2020-07-21 13:04:01,913 - DEBUG - i is 4, total is 24
+2020-07-21 13:04:01,914 - DEBUG - i is 5, total is 120
+2020-07-21 13:04:01,915 - DEBUG - return value is 120
+2020-07-21 13:04:01,936 - DEBUG - end of program
+2020-07-21 13:42:03,024 - DEBUG - start of program
+2020-07-21 13:42:03,025 - DEBUG - start of factorial(%s)
+2020-07-21 13:42:03,128 - DEBUG - i is 1, total is 1
+2020-07-21 13:42:03,128 - DEBUG - i is 2, total is 2
+2020-07-21 13:42:03,128 - DEBUG - i is 3, total is 6
+2020-07-21 13:42:03,129 - DEBUG - i is 4, total is 24
+2020-07-21 13:42:03,129 - DEBUG - i is 5, total is 120
+2020-07-21 13:42:03,129 - DEBUG - return value is 120
+2020-07-21 13:42:03,141 - DEBUG - end of program
